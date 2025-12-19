@@ -28,12 +28,6 @@ jobs:
           TEST-1_RESULTS: "${{steps.test-1.outputs.result}}"
         with:
           runners: test-1
-      - name: SonarCloud Scan
-        uses: SonarSource/sonarcloud-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-
       - name: Codacy Analysis
         uses: codacy/codacy-analysis-cli-action@master
         with:
