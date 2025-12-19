@@ -5,3 +5,13 @@
 
 **UML (updated on 25/12/18)**
 ![UML Diagram of Project](https://cdn.us1.chensao.cc/svg/plantuml-diagram.svg)
+
+
+**Reports**
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e59b18caece14ae1b0320044c7aff29b)](https://app.codacy.com/gh/shaoyang-chen-ics4u1-01-25/ics4u-culminating-analysis-repo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=shaoyang-chen-ics4u1-01-25_ics4u-culminating-analysis-repo&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=shaoyang-chen-ics4u1-01-25_ics4u-culminating-analysis-repo)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=shaoyang-chen-ics4u1-01-25_ics4u-culminating-analysis-repo&metric=bugs)](https://sonarcloud.io/summary/new_code?id=shaoyang-chen-ics4u1-01-25_ics4u-culminating-analysis-repo)
+
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=shaoyang-chen-ics4u1-01-25_ics4u-culminating-analysis-repo)](https://sonarcloud.io/summary/new_code?id=shaoyang-chen-ics4u1-01-25_ics4u-culminating-analysis-repo)
