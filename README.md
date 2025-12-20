@@ -6,10 +6,7 @@
 **To Do List:**
 To Do | Completion? | Owners
 :------------ | :------------- | :-------------  
-Items Package | :heavy_check_mark: | Shaoyang
-Abstract Package | :heavy_check_mark: | Shaoyang
-Characters Package | :heavy_check_mark: | Shaoyang
-Enemies Package | :heavy_check_mark:  | Shaoyang
+Entities Package | :heavy_check_mark: | Shaoyang
 Gacha Package | :factory_worker: | Shaoyang
 Battle Package | :factory_worker: | Kumail
 AI Package | :factory_worker: | Kumail
