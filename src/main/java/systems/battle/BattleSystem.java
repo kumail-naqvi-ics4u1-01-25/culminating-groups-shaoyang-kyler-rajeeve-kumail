@@ -229,7 +229,7 @@ public class BattleSystem {
         if (percent <=0) {
             return 0.0;
         }
-        return percent/0.0;
+        return percent/100.0;
     }
 
 }
