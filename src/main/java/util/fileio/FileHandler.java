@@ -1,6 +1,7 @@
-package util;
+package util.fileio;
 
 import entities.items.Item;
+import entities.abs.GameEntity;
 import systems.gacha.GachaSystem;
 import java.io.File;
 import java.io.FileWriter;
@@ -74,4 +75,3 @@ public class FileHandler {
         return false;
     }
 }
-
